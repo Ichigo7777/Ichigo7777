@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio(soon)]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://iichigo.ga/)**
 
 - 📫 How to reach me **eskabotss@gmail.com**
 
