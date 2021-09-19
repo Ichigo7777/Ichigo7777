@@ -1,62 +1,73 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/desDTQm.gif" height="175px"/></a>
+# Hi there, I'm Simpleboy353 <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm IIchigo7777</h1>
-<h3 align="center">I'm a Discord Developer & Web-Developer.</h3>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-<p align="left"> <a href="https://twitter.com/iichigo7777" target="blank"><img src="https://img.shields.io/twitter/follow/iichigo7777?logo=twitter&style=for-the-badge" alt="iichigo7777" /></a> </p>
+## I'm a Discord Bot Developer
 
-## 🙋‍♂️ About Me
+- 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
+- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://infinitybot.tk/invite)
+- 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on **[Chii Tyan](https://discord.bots.gg/bots/858633606578831380)**
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simpleboy353)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMB8dTPh8u)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Unlikely-Agent)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+---
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://iichigo.ga/)**
+### Spotify Playing 🎧
 
-- 📫 How to reach me **eskabotss@gmail.com**
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31zbzlualz4gpxod7apvdbt4ffk4)
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+---
 
-## 🚀 Languages and Tools:
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 IIchigo7777 :>" alt="IIchigo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+```text
+🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
+🌆 Daytime    145 commits    █████████░░░░░░░░░░░░░░░░   37.56% 
+🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98%
+```
+<!--END_SECTION:waka-->
 
 
-<br/>
-<br/>
+---
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### Frameworks and Languages
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
+[![Java](https://img.shields.io/badge/JAVA-FF6C37?style=for-the-badge&logo=Java&logoColor=white)](https://java.com)
+[![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
 
-<br/>
-<br/>
+### OS and Cloud Services
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
+[![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com)
 
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/iichigo7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iichigo7777" height="30" width="40" /></a>
-<a href="https://instagram.com/eska_yl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eska_yl" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/CQS4EndxRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CQS4EndxRN" height="30" width="40" /></a>
-</p>
+### Browsers and IDE
+[![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
+### Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleboy353)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
 
 ## ❤ Views and Followers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iichigo7777&label=Profile%20views&color=0e75b6&style=flat" alt="iichigo7777" /> </p>
