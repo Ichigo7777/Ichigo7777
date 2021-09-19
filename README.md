@@ -1,17 +1,16 @@
-# Hi there, I'm Simpleboy353 <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm IIchigo7777 <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Discord Bot Developer
+## I'm a Discord Bot Developer and WebSite Dev
 
 - 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
-- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://infinitybot.tk/invite)
-- 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
+- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://scamprotect.ml)
+- 📫 What is the best way to contact me? [Discord](https://discord.com/users/852622588940255354)
 - 😄 Pronouns: He/Him
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simpleboy353)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMB8dTPh8u)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Unlikely-Agent)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ichigo7777)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wMVSKCrdys)
 
 ---
 
@@ -24,11 +23,11 @@
 ---
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Adam 🐤** 
 
 ```text
-🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
-🌆 Daytime    145 commits    █████████░░░░░░░░░░░░░░░░   37.56% 
+🌞 Morning    65 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
+🌆 Daytime    32 commits    █████████░░░░░░░░░░░░░░░░   37.56% 
 🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
 🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98%
 ```
@@ -61,7 +60,7 @@
 
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
+![IIchigo's7777 GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleboy353)](https://github.com/anuraghazra/github-readme-stats)
 
 
