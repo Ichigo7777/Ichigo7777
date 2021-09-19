@@ -58,12 +58,6 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
-### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![IIchigo's7777 GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIchigo7777)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
