@@ -5,7 +5,7 @@
 ## I'm a Discord Bot Developer and WebSite Dev
 
 - 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
-- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://scamprotect.ml)
+- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](http://scamprotect.ml)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/852622588940255354)
 - 😄 Pronouns: He/Him
 
